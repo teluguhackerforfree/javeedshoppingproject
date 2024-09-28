@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Welcome to Amazon Website</h1>
+         <h1>Welcome to datapro-ecommerce</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
